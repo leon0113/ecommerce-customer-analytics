@@ -1,0 +1,19 @@
+# Generated data (reproducible from config.yaml seed)
+data/raw/
+data/processed/
+data/ecommerce.db
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editors / OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store

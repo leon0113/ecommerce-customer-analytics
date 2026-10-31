@@ -1,0 +1,9 @@
+pandas~=2.2
+numpy~=2.1
+matplotlib~=3.9
+seaborn~=0.13
+jupyter~=1.1
+openpyxl~=3.1
+pytest~=8.3
+Faker~=30.8
+PyYAML~=6.0
